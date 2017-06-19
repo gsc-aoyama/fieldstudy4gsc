@@ -1,9 +1,7 @@
 作成した資料を提出します。
-（提出には GitHub アカウントと SpeakerDeck or Slideshare アカウントが必要です。）
 
 # 資料の公開/非公開について
 * 公開
-（非公開資料については、 https://github.com/gsc-aoyama/fieldstudy4gsc/issues/2 に申請してください）
 
 # プレゼン資料
 * on [SpeakerDeck](https://speakerdeck.com/) or [Slideshare](http://slideshare.net/)
@@ -11,15 +9,11 @@
 
 * 元データファイル(PPT/Keynote/その他プレゼン資料作成ツール)
 【ここにプレゼン資料のファイルをドラッグする】
-（ファイルのアップロードはファイルアイコンをここにドラッグすればできます。keynoteファイル等はzip圧縮してください）
-
 
 # ポスター資料
 * PDFファイル（ここに直接置いてください）
 【ここにプレゼン資料のファイルをドラッグする】
 
-
 * 元データファイル(PPT/Keynote/Ai/その他ポスター資料作成ツール)
-（ファイルのアップロードはファイルアイコンをここにドラッグすればできます。keynote/Aiファイル等はzip圧縮してください）
 【ここにプレゼン資料のファイルをドラッグする】
 
