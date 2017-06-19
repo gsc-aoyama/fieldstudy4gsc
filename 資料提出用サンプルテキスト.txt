@@ -2,6 +2,7 @@
 
 # 資料の公開/非公開について
 * 公開
+* ライセンス： [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 # プレゼン資料
 * on [SpeakerDeck](https://speakerdeck.com/) or [Slideshare](http://slideshare.net/)
