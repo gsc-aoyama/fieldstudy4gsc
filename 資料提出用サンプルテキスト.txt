@@ -1,0 +1,25 @@
+作成した資料を提出します。
+（提出には GitHub アカウントと SpeakerDeck or Slideshare アカウントが必要です。）
+
+# 資料の公開/非公開について
+* 公開
+（非公開資料については、 https://github.com/gsc-aoyama/fieldstudy4gsc/issues/2 に申請してください）
+
+# プレゼン資料
+* on [SpeakerDeck](https://speakerdeck.com/) or [Slideshare](http://slideshare.net/)
+https://speakerdeck.com/mapconcierge/purezenzi-liao-sanpuru
+
+* 元データファイル(PPT/Keynote/その他プレゼン資料作成ツール)
+[presentationsamplefile.key.zip](https://github.com/gsc-aoyama/fieldstudy4gsc/files/1083591/presentationsamplefile.key.zip)
+（ファイルのアップロードはファイルアイコンをここにドラッグすればできます。keynoteファイル等はzip圧縮してください）
+
+
+# ポスター資料
+* PDFファイル（ここに直接置いてください）
+[Poster4FieldStudy_v10.pdf](https://github.com/gsc-aoyama/fieldstudy4gsc/files/1083620/Poster4FieldStudy_v10.pdf)
+
+
+* 元データファイル(PPT/Keynote/Ai/その他ポスター資料作成ツール)
+（ファイルのアップロードはファイルアイコンをここにドラッグすればできます。keynote/Aiファイル等はzip圧縮してください）
+[案A3プレゼン-テンプレート_v10.pptx](https://github.com/gsc-aoyama/fieldstudy4gsc/files/1083593/A3.-._v10.pptx)
+
